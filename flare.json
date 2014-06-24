@@ -1,0 +1,66 @@
+{
+    "name": "Jainish Shah",
+    "children": [  {
+        "name": "Diploma",
+        "children": [{
+            "name": "C",
+            "size": 1
+        }, {
+            "name": "C++",
+            "size": 2
+        }, {
+            "name": "DATA STRUCTRE",
+            "size": 3
+        }, {
+            "name": "UNIX PROGRAMMING",
+            "size": 4
+        },{
+            "name": "MS SQL",
+            "size": 5
+        },{
+            "name": "WEB DESIGNING",
+            "size": 6
+        }, {
+            "name": "SOFTWARE ENGINEERING",
+            "size": 7
+        }, {
+            "name": "COMPUTER GRAPHICS",
+            "size": 8
+        }]
+    }, {
+        "name": "Bachelors",
+        "children": [{
+            "name": "OOAD & UML",
+            "size": 11
+        },{
+            "name": "INFORMATION SECURITY",
+            "size": 12
+        },{
+            "name": "SYSTEM PROGRAMMING",
+            "size": 13
+        },{
+            "name": "ADVANCE JAVA TECHNOLOGY",
+            "size": 14
+        },{
+            "name": "ADVANCE .NET TECHNOLOGY",
+            "size": 15
+        }
+		]
+    }, {
+        "name": "Masters",
+        "children": [{
+            "name": "ANDROID APPLICATION DEVELOPMENT",
+            "size": 21
+        }, {
+            "name": "iPHONE APPLICATION DEVELOPMENT",
+            "size": 22
+        }, {
+            "name": "UNIX OPERATING SYSTEM",
+            "size": 23
+        }, {
+            "name": "JAVASCRIPT",
+            "size": 24
+        }]
+}]
+   
+}
